@@ -45,7 +45,7 @@ SECRET_KEY = 'django-insecure-35lv)k8wkc=i0as54jgk@y!rnvb1_rjf)83+($#bmfkx5r(up!
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "u2s4-romero-hernandez-andy-daniel.onrender.com",
+    "u4s8-romero-hernandez-andy-daniel.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
